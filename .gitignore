@@ -1,0 +1,20 @@
+# Cadena de conexión local de desarrollo (la app usa localhost:5433 por defecto)
+conexion.txt
+FinOptima.Vista/conexion.txt
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Compilados
+[Bb]in/
+[Oo]bj/
+TestResults/
+*.dll
+*.pdb
+*.cache
+
+# Credenciales locales
+.env
+*.env
