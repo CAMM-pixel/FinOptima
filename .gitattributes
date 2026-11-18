@@ -61,8 +61,3 @@
 #*.PDF   diff=astextplain
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
-
-###############################################################################
-# Exportacion generada del diagrama (visor Mermaid): no cuenta en lenguajes
-###############################################################################
-"FinOptima.Entidades/Entidades/VsMerMark Diagram.html" linguist-generated=true
